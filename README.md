@@ -1,6 +1,6 @@
 Playable Rummy | Key in Context
 
-This is a starter Java project for Homework 1.  The assignment has two problems: key word in context and a card game similar to rummy.  A description of each of the problems is given below.  
+The assignment has two problems: key word in context and a card game similar to rummy.  A description of each of the problems is given below.  
 
 Note that, in addition to this file, the project contains many hints and explanations in the form of javadoc comments.  You can use the command `mvn javadoc:javadoc` to compile the javadoc to HTML.  
 
